@@ -31,6 +31,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - diff for jupyter: https://www.reviewnb.com/
 - tensordict: https://github.com/pytorch/tensordict
 - transformerlens: https://github.com/neelnanda-io/TransformerLens
+- circuitsvis: https://github.com/alan-cooney/CircuitsVis
 - read math: (recognize symbols by drawing them) https://detexify.kirelabs.org/classify.html
 - understand floating point numbers https://float.exposed
 
