@@ -26,13 +26,14 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - Lilian Weng's https://lilianweng.github.io/
 
 ## tools and libraries
-- tensor manipulation: [einops](https://einops.rocks/) or [einx](https://github.com/fferflo/einx)
+- tensor manipulation: [einops](https://einops.rocks/) or [einx](https://github.com/fferflo/einx) and [eindex](https://pypi.org/project/eindex/)
 - libraries for jupyter: [nbdev](https://nbdev.fast.ai/) https://youtu.be/9Q6sLbz37gk
 - diff for jupyter: https://www.reviewnb.com/
 - tensordict: https://github.com/pytorch/tensordict
 - transformerlens: https://github.com/neelnanda-io/TransformerLens
 - circuitsvis: https://github.com/alan-cooney/CircuitsVis
 - read math: (recognize symbols by drawing them) https://detexify.kirelabs.org/classify.html
+- visualize math equations: https://www.desmos.com/calculator
 - understand floating point numbers https://float.exposed
 
 ## building intuitions
