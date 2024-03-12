@@ -32,6 +32,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - tensordict: https://github.com/pytorch/tensordict
 - transformerlens: https://github.com/neelnanda-io/TransformerLens
 - circuitsvis: https://github.com/alan-cooney/CircuitsVis
+- transformer debugger: https://github.com/openai/transformer-debugger
 - read math: (recognize symbols by drawing them) https://detexify.kirelabs.org/classify.html
 - visualize math equations: https://www.desmos.com/calculator
 - understand floating point numbers https://float.exposed
@@ -40,7 +41,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - transformers: thinking of residual stream as "superposition" a way to force the network to compress (from this source and it has many good gems but it's very long https://youtu.be/KV5gbOmHbjU)
 - unsupervised learning: framing unsupervised learning as distribution matching, intelligence as compression (pretty long too but really mind expanding to me https://youtu.be/AKMuA_TVz3A)
 
-## forums
+## forums 
 - https://www.lesswrong.com/
 
 ## podcast
