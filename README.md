@@ -33,6 +33,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - transformerlens: https://github.com/neelnanda-io/TransformerLens
 - circuitsvis: https://github.com/alan-cooney/CircuitsVis
 - transformer debugger: https://github.com/openai/transformer-debugger
+- weights and biases (logging/dashboard for training runs as a service): https://wandb.ai/
 - read math: (recognize symbols by drawing them) https://detexify.kirelabs.org/classify.html
 - visualize math equations: https://www.desmos.com/calculator
 - understand floating point numbers https://float.exposed
