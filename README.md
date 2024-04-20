@@ -37,6 +37,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - read math: (recognize symbols by drawing them) https://detexify.kirelabs.org/classify.html
 - visualize math equations: https://www.desmos.com/calculator
 - understand floating point numbers https://float.exposed
+- using `??` after a function/method in a jupyter notebook show the source code
 
 ## building intuitions
 - transformers: thinking of residual stream as "superposition" a way to force the network to compress (from this source and it has many good gems but it's very long https://youtu.be/KV5gbOmHbjU)
