@@ -13,6 +13,8 @@ A messy compilaitons of links I found useful, or popular with people around me w
 
 ## mechanistic interpretability / AI safety
 - Neel Nanda's [blog](https://www.neelnanda.io/) and [youtube](https://www.youtube.com/@neelnanda2469)
+- Chris Olah's [blog](https://colah.github.io/)
+- Anthropic's [blog](https://transformer-circuits.pub/)
 - https://course.aisafetyfundamentals.com/alignment
 - https://www.lesswrong.com/posts/kpPnReyBC54KESiSn/optimality-is-the-tiger-and-agents-are-its-teeth
 - https://www.arena.education/
