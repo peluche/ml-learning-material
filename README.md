@@ -9,6 +9,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - convolutions: https://www.youtube.com/@animatedai
 - gradient descent: https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
 - matrix multiplication: http://matrixmultiplication.xyz/
+- neural networks: https://playground.tensorflow.org/
 - LLM: https://bbycroft.net/llm
 
 ## mechanistic interpretability / AI safety
