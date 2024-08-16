@@ -42,6 +42,9 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - understand floating point numbers https://float.exposed
 - using `??` after a function/method in a jupyter notebook show the source code
 
+## challenges
+- prompt injection CTF: https://hackmerlin.io/
+
 ## building intuitions
 - transformers: thinking of residual stream as "superposition" a way to force the network to compress (from this source and it has many good gems but it's very long https://youtu.be/KV5gbOmHbjU)
 - unsupervised learning: framing unsupervised learning as distribution matching, intelligence as compression (pretty long too but really mind expanding to me https://youtu.be/AKMuA_TVz3A)
