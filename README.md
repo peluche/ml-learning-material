@@ -5,6 +5,10 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - (my favorite) ✨ [Andrej Karpaty's](https://karpathy.ai/): [Zero to Hero series](https://karpathy.ai/zero-to-hero.html) on [youtube](https://www.youtube.com/@AndrejKarpathy)
 - (great too) 🔥 [Jeremy Howards's](https://twitter.com/jeremyphoward): [fast.ai](https://course.fast.ai/)
 
+## tensor manipulation exercises
+- (my intro) https://github.com/peluche/pre-arena
+- https://github.com/srush/Tensor-Puzzles
+
 ## visualizations:
 - convolutions: https://www.youtube.com/@animatedai
 - gradient descent: https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
@@ -18,7 +22,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - Anthropic's [blog](https://transformer-circuits.pub/)
 - https://course.aisafetyfundamentals.com/alignment
 - https://www.lesswrong.com/posts/kpPnReyBC54KESiSn/optimality-is-the-tiger-and-agents-are-its-teeth
-- https://www.arena.education/
+- https://www.arena.education/ (https://github.com/callummcdougall/ARENA_3.0)
 
 ## great videos
 - ml / math concepts: https://www.youtube.com/@statquest
