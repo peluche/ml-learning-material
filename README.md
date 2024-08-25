@@ -28,6 +28,7 @@ A messy compilaitons of links I found useful, or popular with people around me w
 - ml / math concepts: https://www.youtube.com/@statquest
 - https://www.youtube.com/@howardjeremyp
 - 3blue1brown has so many great videos, e.g. [eigenvectors & eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+- Steve Brunton math series (e.g. SVD, Fourier): https://www.youtube.com/@Eigensteve
 
 ## great blogs
 - Lilian Weng's https://lilianweng.github.io/
